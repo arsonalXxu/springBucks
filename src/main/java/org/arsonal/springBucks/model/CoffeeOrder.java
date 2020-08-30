@@ -15,7 +15,7 @@ import java.io.Serializable;
 import java.util.List;
 
 @Entity
-@Table(name = "T_ORDER")
+@Table(name = "t_order")
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
